@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am a chemistry student at EPFL 🇨🇭
--👉 Chemistry 👨‍🔬 __
--👉 Math      🧮 __
--👉 Coding    💿 __
+-👉 Chemistry 👨‍🔬 <br />
+-👉 Math      🧮 <br />
+-👉 Coding    💿 <br />
 
 <!--
 **philippeloe/philippeloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

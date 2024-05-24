@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a chemistry student at EPFL 🇨🇭🇱🇺 <br />
+I am a chemistry student at the Swiss Federal Institute of Technology Lausanne (EPFL) 🇨🇭🇱🇺 <br />
 👉 Chemistry 👨‍🔬 <br />
 👉 Math      🧮 <br />
 👉 Coding    💿 <br />

@@ -3,6 +3,7 @@ I am a chemistry student at EPFL 🇨🇭 <br />
 👉 Chemistry 👨‍🔬 <br />
 👉 Math      🧮 <br />
 👉 Coding    💿 <br />
+👉 Politics  🗣️
 
 <!--
 **philippeloe/philippeloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

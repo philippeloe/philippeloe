@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a chemistry student at EPFL 🇨🇭 <br />
+I am a chemistry student at EPFL 🇨🇭🇱🇺 <br />
 👉 Chemistry 👨‍🔬 <br />
 👉 Math      🧮 <br />
 👉 Coding    💿 <br />
